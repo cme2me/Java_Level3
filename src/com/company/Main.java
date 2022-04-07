@@ -2,8 +2,6 @@ package com.company;
 
 import com.company.fruit.Apple;
 import com.company.fruit.FruitBox;
-import com.company.fruit.Orange;
-
 import java.util.ArrayList;
 import java.util.Arrays;
 
